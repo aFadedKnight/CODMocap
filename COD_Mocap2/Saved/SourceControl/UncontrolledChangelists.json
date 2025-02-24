@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Documents/GitHub/CodMocap/COD_Mocap2/Content/Characters/Zombies/Source/PackedMaterial0.uasset",
+				"E:/Documents/GitHub/CodMocap/COD_Mocap2/Content/Main.umap",
+				"E:/Documents/GitHub/CodMocap/COD_Mocap2/Content/Characters/Zombies/Source/female_1_packed0_diffuse.uasset",
+				"E:/Documents/GitHub/CodMocap/COD_Mocap2/Content/Characters/Zombies/Source/female_1_packed0_gloss.uasset",
+				"E:/Documents/GitHub/CodMocap/COD_Mocap2/Content/Characters/Zombies/Source/female_1_packed0_normal.uasset",
+				"E:/Documents/GitHub/CodMocap/COD_Mocap2/Content/Characters/Zombies/Source/female_1_packed0_specular.uasset",
+				"E:/Documents/GitHub/CodMocap/COD_Mocap2/Content/Characters/Zombies/Source/zombie_female_1_upl.uasset",
+				"E:/Documents/GitHub/CodMocap/COD_Mocap2/Content/Characters/Zombies/Source/zombie_female_1_upl_PhysicsAsset.uasset",
+				"E:/Documents/GitHub/CodMocap/COD_Mocap2/Content/Characters/Zombies/Source/zombie_female_1_upl_Skeleton.uasset",
+				"E:/Documents/GitHub/CodMocap/COD_Mocap2/Content/Characters/Zombies/Vicon/ViconMale_v2__1_.uasset",
+				"E:/Documents/GitHub/CodMocap/COD_Mocap2/Content/Characters/Zombies/Vicon/Viconman_005_blinn.uasset",
+				"E:/Documents/GitHub/CodMocap/COD_Mocap2/Content/Characters/Zombies/Vicon/Viconman_005_4K_TXTR_Alpha.uasset",
+				"E:/Documents/GitHub/CodMocap/COD_Mocap2/Content/Characters/Zombies/Vicon/ViconMale_v2__1__Skeleton.uasset",
+				"E:/Documents/GitHub/CodMocap/COD_Mocap2/Content/Characters/Zombies/Vicon/ViconMale_v2__1__PhysicsAsset.uasset"
+			]
+		}
+	]
+}
