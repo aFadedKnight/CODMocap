@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\nicky\OneDrive\Documents\Unreal Projects\COD_Mocap2\Intermediate\PipInstall
+set VIRTUAL_ENV=C:\Users\nicky\Documents\GitHub\CODMocap\COD_Mocap2\Intermediate\PipInstall
 
 if not defined PROMPT set PROMPT=$P$G
 

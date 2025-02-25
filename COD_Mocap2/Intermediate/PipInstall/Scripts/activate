@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\nicky\OneDrive\Documents\Unreal Projects\COD_Mocap2\Intermediate\PipInstall"
+VIRTUAL_ENV="C:\Users\nicky\Documents\GitHub\CODMocap\COD_Mocap2\Intermediate\PipInstall"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
